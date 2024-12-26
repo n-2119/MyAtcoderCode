@@ -1,2 +1,2 @@
 # MyAtcoderCode
-pract,cpp,csha,py,rust
+c++
